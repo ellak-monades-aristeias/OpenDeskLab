@@ -17,7 +17,7 @@ Contents:
         Open Data <include/open_data>
         Acknowledgments <include/acknowledgments>
 
-.. image:: ../img/cabinet_rendering.png
+.. image:: ../img/single_cabinet.png
 
 Indices and tables
 ==================
