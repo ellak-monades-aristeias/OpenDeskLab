@@ -1,4 +1,6 @@
 # OpenDeskLab
+[![Open Issues](https://img.shields.io/github/issues/ellak-monades-aristeias/OpenDeskLab.svg)](https://github.com/ellak-monades-aristeias/OpenDeskLab/issues)
+[![License](https://img.shields.io/github/license/ellak-monades-aristeias/OpenDeskLab.svg)](https://github.com/ellak-monades-aristeias/OpenDeskLab/master/LICENSE.md)
 
 ## Σύντομη Περιγραφή
 
