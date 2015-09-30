@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+=======================================
 Welcome to OpenDeskLab's documentation!
 =======================================
 
@@ -11,6 +12,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+        Project Description <include/project_description>
+        Features <include/features>
+        Open Data <include/open_data>
+        Acknowledgements <include/acknowledgements>
 
 
 Indices and tables
