@@ -1,4 +1,5 @@
 # OpenDeskLab
+[![Documentation Status](https://readthedocs.org/projects/opendesklab/badge/?version=latest)](https://opendesklab.readthedocs.org/)
 [![Open Issues](http://img.shields.io/github/issues/ellak-monades-aristeias/OpenDeskLab.svg)](https://github.com/ellak-monades-aristeias/OpenDeskLab/issues)
 [![License](http://img.shields.io/badge/License-CC--SA-blue.svg)](https://github.com/ellak-monades-aristeias/OpenDeskLab/blob/master/LICENSE.md)
 
