@@ -15,8 +15,9 @@ Contents:
         Project Description <include/project_description>
         Features <include/features>
         Open Data <include/open_data>
-        Acknowledgements <include/acknowledgements>
+        Acknowledgments <include/acknowledgments>
 
+.. image:: ../img/cabinet_rendering.png
 
 Indices and tables
 ==================
