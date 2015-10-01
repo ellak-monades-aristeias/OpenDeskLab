@@ -3,6 +3,8 @@
 [![Open Issues](http://img.shields.io/github/issues/ellak-monades-aristeias/OpenDeskLab.svg)](https://github.com/ellak-monades-aristeias/OpenDeskLab/issues)
 [![License](http://img.shields.io/badge/License-CC--SA-blue.svg)](https://github.com/ellak-monades-aristeias/OpenDeskLab/blob/master/LICENSE.md)
 
+OpenDeskLab continuous documentation can be found in [ReadTheDocs](https://opendesklab.readthedocs.org/)
+
 ## Σύντομη Περιγραφή
 
 Τα γραφεία εργαστηρίων σχολικών μονάδων φυσικών επιστημών είναι μια ειδική κατηγορία πάγκων εργασίας που έχουν στόχο την εξυπηρέτηση της διεξαγωγής των εργαστηρίων φυσικής, χημείας, βιολογιάς, γεωλογίας και γεωγραφίας. Οι ανάγκες των εργαστηριών αυτών διαφέρουν σημαντικά, αλλά έχουν κοινό γνώμονα ότι στοχεύουν να προστατεύουν τους ανήλικους μαθητές από ατυχήματα που μπορεί να συμβούν κατά την διεξαγωγή των πειραμάτων. Ταυτόχρονα, παρέχουν ευκολίες για την πραγματοποίηση των εργαστηρίων, όπως η ασφαλής παροχή ηλεκτρικού ρεύματος (εναλλασσόμενου και συνεχούς), η παροχή και αποχέτευση ρευστών (αέριων και υγρών) καθώς και η εύκολη πρόσβαση σε συστήματα ασφαλείας (πυρόσβεση/ηλεκτρικές ασφάλειες).
