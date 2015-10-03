@@ -10,20 +10,23 @@ Welcome to OpenDeskLab's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :glob:
 
-        Project Description <include/project_description>
-        Features <include/features>
-        Specifications <include/specifications>
-        Open Data <include/open_data>
-        Acknowledgments <include/acknowledgments>
+      Project Description <include/project_description>
+      Specifications <include/specifications>
+      Features <include/features>
+      Open Data <include/open_data>
+      Acknowledgments <include/acknowledgments>
 
-.. image:: ../img/single_cabinet.png
+.. figure::  ../img/single_cabinet.png
+   :align:   center
+
+   A rendering of the single cabinet module
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

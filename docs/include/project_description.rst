@@ -1,8 +1,9 @@
 ============================
-:index:`Project Description`
+Project :index:`Description`
 ============================
 
 OpenDeskLab aims at creating an open design for laboratory desks that is
+
 - Modular structure
 - Reconfigurable dimensions
 - Safe
