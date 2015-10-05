@@ -7,6 +7,9 @@
 Welcome to OpenDeskLab's documentation!
 =======================================
 
+.. figure::  ../img/OpenDeskLab_room.png
+   :align:   center
+
 Contents:
 
 .. toctree::
@@ -18,11 +21,6 @@ Contents:
       Features <include/features>
       Open Data <include/open_data>
       Acknowledgments <include/acknowledgments>
-
-.. figure::  ../img/OpenDeskLab3W.png
-   :align:   center
-
-   A rendering of the OpenDeskLab with three modules
 
 Indices and tables
 ==================

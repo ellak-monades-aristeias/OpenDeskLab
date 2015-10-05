@@ -2,6 +2,9 @@
 Project :index:`Description`
 ============================
 
+.. figure::  ../../img/OpenDeskLab_worker.png
+   :align:   center
+
 OpenDeskLab aims at creating an open design for laboratory desks that is
 
 - Modular structure
