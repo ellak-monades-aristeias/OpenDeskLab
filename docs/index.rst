@@ -19,10 +19,10 @@ Contents:
       Open Data <include/open_data>
       Acknowledgments <include/acknowledgments>
 
-.. figure::  ../img/single_cabinet.png
+.. figure::  ../img/OpenDeskLab3W.png
    :align:   center
 
-   A rendering of the single cabinet module
+   A rendering of the OpenDeskLab with three modules
 
 Indices and tables
 ==================
