@@ -9,7 +9,7 @@
 .. tabularcolumns:: |l|c|c|c|
 
 +------------------------------------+----------+-----------+-------------+
-| Bill of Materials                                                       | 
+| Single Cabinet - Bill of Materials                                      | 
 +------------------------------------+----------+-----------+-------------+
 | Item                               | Quantity | Price/Pcs | Total Price |
 +====================================+==========+===========+=============+
@@ -27,16 +27,16 @@
 +------------------------------------+----------+-----------+-------------+
 | Bakelite Door 755mm x 496mm x 18mm |     1    |   50.490€ |     50.490€ |
 +------------------------------------+----------+-----------+-------------+
-| Melamine Part 760mm x 562mm x 18mm |     2    |    8.211€ |      7.014€ |
+| Melamine Part 760mm x 562mm x 18mm |     2    | 8.211€/m2 |      7.014€ |
 +------------------------------------+----------+-----------+-------------+
-| Melamine Part 562mm x 464mm x 18mm |     3    |    8.211€ |      6.423€ |
+| Melamine Part 562mm x 464mm x 18mm |     3    | 8.211€/m2 |      6.423€ |
 +------------------------------------+----------+-----------+-------------+
 | Knob                               |     1    |    1.080€ |      1.080€ |
 +------------------------------------+----------+-----------+-------------+
 | **Total Cost**                                            |     86.205€ |
 +------------------------------------+----------+-----------+-------------+
 
-The single cabinet is a 1W module for the OpenDeskLab. It is comprised of the four melamine boards that form the frame and the melamine door that has rounded edges. 
+The single cabinet is a single width module for the OpenDeskLab. It is comprised of the four melamine boards that form the frame and the melamine door that has rounded edges. 
 
 The sides of the frame can be used to mount the door either as right swing or as a left swing, with no modifications on the frame or the door itself. The hinges are standardized and all the holes can be predrilled in the CNC mill of the melamine supplier.
 
