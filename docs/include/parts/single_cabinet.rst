@@ -44,3 +44,7 @@ The sides of the frame can be used to mount the door either as right swing or as
    :align: center
    :scale: 50 %
    :alt:   single cabinet
+
+.. raw:: html 
+
+   <video controls src="../../_static/side_panel_assembly.mp4"></video> 
