@@ -47,4 +47,18 @@ The sides of the frame can be used to mount the door either as right swing or as
 
 .. raw:: html 
 
-   <video controls src="../../_static/side_panel_assembly.mp4"></video> 
+   <video src="../../_static/side_panel_assembly.ogv" width="696" type="video/ogg" controls="controls">
+   Your browser does not support the video tag.
+   </video>
+
+.. raw:: html 
+
+   <video src="../../_static/door_assembly.ogv" width="696" type="video/ogg" controls="controls">
+   Your browser does not support the video tag.
+   </video>
+
+.. raw:: html 
+
+   <video src="../../_static/single_cabinet.ogv" width="696" type="video/ogg" controls="controls">
+   Your browser does not support the video tag.
+   </video>
