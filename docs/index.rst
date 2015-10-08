@@ -10,8 +10,6 @@ Welcome to OpenDeskLab's documentation!
 .. figure::  ../img/OpenDeskLab_room.png
    :align:   center
 
-Contents:
-
 .. toctree::
    :maxdepth: 3
    :glob:
@@ -21,10 +19,3 @@ Contents:
       Modules <include/modules>
       Open Data <include/open_data>
       Acknowledgments <include/acknowledgments>
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
-
