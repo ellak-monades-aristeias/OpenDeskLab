@@ -48,59 +48,60 @@ These can be combined in any desirable way to formulate a -- three, four or five
 :index:`Materials`
 ------------------
 
-.. tabularcolumns:: |c|
+    .. tabularcolumns:: |c|c|
+    .. table:: 
 
-======================= ==================
- **OpenDeskLab Materials**
-------------------------------------------
-Melamine                Electric Plug      
-Bakelite                Electric Cable
-Cam Lock                Pneumatic Coupling
-Cam Bolt                Pneumatic Tubing
-Wooden Dowel Pin        Sink
-Concealed Hinge         Water Tap
-Hinge Mounting Plate    Hydraulic Hose
-Plastic Adjustable Leg  Plastic Tube
-Knob                    LED Lighting
-Electric Switch         Insulating Tape
-======================= ==================
-
+        ======================= ==================
+         **OpenDeskLab Materials**
+        ------------------------------------------
+        Melamine                Electric Plug      
+        Bakelite                Electric Cable
+        Cam Lock                Pneumatic Coupling
+        Cam Bolt                Pneumatic Tubing
+        Wooden Dowel Pin        Sink
+        Concealed Hinge         Water Tap
+        Hinge Mounting Plate    Hydraulic Hose
+        Plastic Adjustable Leg  Plastic Tube
+        Knob                    LED Lighting
+        Electric Switch         Insulating Tape
+        ======================= ==================
 
 :index:`Tools`
 --------------
 
-.. tabularcolumns:: |c|c|
+    .. tabularcolumns:: |c|c|
+    .. table:: 
 
-+-------------------------------+---------------------------+
-| OpenDeskLab Module            | Tools                     |
-+===============================+===========================+
-| Single Cabinet                | Philips Screwdriver       |
-+-------------------------------+---------------------------+
-| Double Cabinet                | Philips Screwdriver       |
-+-------------------------------+---------------------------+
-| Drawer Cabinet                | Philips Screwdriver       |
-+-------------------------------+---------------------------+
-| Cable Routing                 | Philips Screwdriver       |
-+                               +---------------------------+
-|                               | Wire Cutter               |
-+                               +---------------------------+
-|                               | Tube Cutter               |
-+                               +---------------------------+
-|                               | Scissors                  |
-+-------------------------------+---------------------------+
-| Hazardous Materials Cabinet   | Philips Screwdriver       |
-+-------------------------------+---------------------------+
-| Sink Cabinet                  | Philips Screwdriver       |
-+                               +---------------------------+
-|                               | Wrench                    |
-+                               +---------------------------+
-|                               | Silicone                  |
-+                               +---------------------------+
-|                               | Jigsaw (Optional)         |
-+-------------------------------+---------------------------+
-| Top Mount Lighting            | Philips Screwdriver       |
-+                               +---------------------------+
-|                               | Wire Cutter               |
-+                               +---------------------------+
-|                               | Scissors                  |
-+-------------------------------+---------------------------+
+        +-------------------------------+---------------------------+
+        | OpenDeskLab Module            | Tools                     |
+        +===============================+===========================+
+        | Single Cabinet                | Philips Screwdriver       |
+        +-------------------------------+---------------------------+
+        | Double Cabinet                | Philips Screwdriver       |
+        +-------------------------------+---------------------------+
+        | Drawer Cabinet                | Philips Screwdriver       |
+        +-------------------------------+---------------------------+
+        | Cable Routing                 | Philips Screwdriver       |
+        +                               +---------------------------+
+        |                               | Wire Cutter               |
+        +                               +---------------------------+
+        |                               | Tube Cutter               |
+        +                               +---------------------------+
+        |                               | Scissors                  |
+        +-------------------------------+---------------------------+
+        | Hazardous Materials Cabinet   | Philips Screwdriver       |
+        +-------------------------------+---------------------------+
+        | Sink Cabinet                  | Philips Screwdriver       |
+        +                               +---------------------------+
+        |                               | Wrench                    |
+        +                               +---------------------------+
+        |                               | Silicone                  |
+        +                               +---------------------------+
+        |                               | Jigsaw (Optional)         |
+        +-------------------------------+---------------------------+
+        | Top Mount Lighting            | Philips Screwdriver       |
+        +                               +---------------------------+
+        |                               | Wire Cutter               |
+        +                               +---------------------------+
+        |                               | Scissors                  |
+        +-------------------------------+---------------------------+
