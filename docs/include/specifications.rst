@@ -50,49 +50,20 @@ These can be combined in any desirable way to formulate a -- three, four or five
 
 .. tabularcolumns:: |c|
 
-+------------------------+
-| OpenDeskLab Materials  |
-+========================+
-| Melamine               |   
-+------------------------+
-| Bakelite               |
-+------------------------+ 
-| Cam Lock               |
-+------------------------+ 
-| Cam Bolt               |
-+------------------------+ 
-| Wooden Dowel Pin       |
-+------------------------+ 
-| Concealed Hinge        |
-+------------------------+ 
-| Hinge Mounting Plate   |
-+------------------------+ 
-| Plastic Adjustable Leg |
-+------------------------+   
-| Knob                   |
-+------------------------+ 
-| Electric Plug          |
-+------------------------+ 
-| Electric Cable         |
-+------------------------+ 
-| Pneumatic Coupling     |
-+------------------------+ 
-| Pneumatic Tubing       |
-+------------------------+ 
-| Sink                   |
-+------------------------+ 
-| Water Tap              |
-+------------------------+ 
-| Hydraulic Hose         |
-+------------------------+ 
-| Plastic Tube           |
-+------------------------+ 
-| LED Lighting           |
-+------------------------+ 
-| Electric Switch        |
-+------------------------+ 
-| Insulating Tape        | 
-+------------------------+
+======================= ==================
+ **OpenDeskLab Materials**
+------------------------------------------
+Melamine                Electric Plug      
+Bakelite                Electric Cable
+Cam Lock                Pneumatic Coupling
+Cam Bolt                Pneumatic Tubing
+Wooden Dowel Pin        Sink
+Concealed Hinge         Water Tap
+Hinge Mounting Plate    Hydraulic Hose
+Plastic Adjustable Leg  Plastic Tube
+Knob                    LED Lighting
+Electric Switch         Insulating Tape
+======================= ==================
 
 
 :index:`Tools`
