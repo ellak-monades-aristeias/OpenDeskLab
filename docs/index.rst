@@ -18,7 +18,7 @@ Contents:
 
       Project Description <include/project_description>
       Specifications <include/specifications>
-      Features <include/features>
+      Modules <include/modules>
       Open Data <include/open_data>
       Acknowledgments <include/acknowledgments>
 
