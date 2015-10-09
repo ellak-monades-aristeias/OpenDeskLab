@@ -11,7 +11,7 @@ Welcome to OpenDeskLab's documentation!
    :align:   center
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :glob:
 
       Project Description <include/project_description>
