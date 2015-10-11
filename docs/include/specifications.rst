@@ -109,9 +109,13 @@ These can be combined in any desirable way to formulate a -- three, four or five
         +                               +---------------------------+
         |                               | Jigsaw (Optional)         |
         +-------------------------------+---------------------------+
-        | Top Mount Lighting            | Philips Screwdriver       |
+        | Lighting                      | Philips Screwdriver       |
         +                               +---------------------------+
         |                               | Wire Cutter               |
         +                               +---------------------------+
         |                               | Scissors                  |
+        +-------------------------------+---------------------------+
+        | Ventilation                   | Philips Screwdriver       |
+        +-------------------------------+---------------------------+
+        | Desk Back                     | Philips Screwdriver       |
         +-------------------------------+---------------------------+

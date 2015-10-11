@@ -1,3 +1,4 @@
+.. _single_cabinet:
 :index:`Single Cabinet`
 -----------------------
 

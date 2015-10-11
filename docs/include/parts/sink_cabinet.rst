@@ -6,7 +6,9 @@
     Tools Needed:
      - Philips Screwdriver
      - Electric Screwdriver for the four plastic legs
-
+     - Wrench
+     - Silicone
+     - Jigsaw (Optional)
 
 Assembly Procedure
 ~~~~~~~~~~~~~~~~~~

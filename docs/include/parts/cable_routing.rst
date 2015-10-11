@@ -1,6 +1,18 @@
 :index:`Cable Routing`
 ----------------------
 
+The cable routing module lies on top of the worktop, providing power and air connections for the users. The width of the melamine parts depends on the number of modules the desks will be built with.
+
+.. important::
+
+   Tools Needed:
+    - Philips Screwdriver
+    - Wire Cutter
+    - Tube Cutter
+    - Scissors
+
+When choosing the appropriate connections (for electricity and pneumatics) choose the appropriate plugs for your country and the correct International Protection Marking (IP Code). In laboratory environments, IP54 is the minimum requirement, and in some cases even more strict protection might be required.
+
    .. tabularcolumns:: |l|c|c|
    .. table::
 
@@ -20,6 +32,9 @@
       9k      N/A               Powerful high temperature water jets
       ======= ================= ===========================================
 
+.. warning::
+
+   Electrical connections must be made from an authorized electrician. The authors are not responsible for any damage or incorrect installation by the builders.
 
 Three module desk
 ~~~~~~~~~~~~~~~~~

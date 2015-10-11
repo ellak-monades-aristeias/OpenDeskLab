@@ -1,6 +1,15 @@
 :index:`Hazardous Materials Cabinet`
 ------------------------------------
 
+The hazardous materials cabinet is a single module for the OpenDeskLab. It is very similar to the :doc:`single_cabinet` module, but it is made of fire resistant materials and the shelves have a front cover that prevents accidents and spillage.
+
+The sides of the frame can be used to mount the door either as right swing or as left swing, with no modifications on the frame or the door itself. The hinges are standardized and all the holes can be predrilled in the CNC mill of the melamine supplier.
+
+.. important::
+
+   Tools Needed:
+    - Philips Screwdriver
+    - Electric Screwdriver for the four plastic legs
 
 Assembly Procedure
 ++++++++++++++++++

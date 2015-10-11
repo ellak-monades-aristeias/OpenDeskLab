@@ -10,7 +10,7 @@
    parts/sink_cabinet
    parts/hazardous_materials_cabinet
    parts/cable_routing
-   parts/top_mount_lighting
-   parts/top_mount_ventilation
+   parts/lighting
+   parts/ventilation
    parts/desk_back
    parts/worktop

@@ -1,12 +1,20 @@
-:index:`Top Mount Lighting`
+:index:`Lighting`
 ---------------------------
+
+The lighting module connects on the tall :doc:`desk_back` module and provides lighting to the worktop using a LED stripe. The LED stripe can be turned on and off using the switch that is attached on the :doc:`cable_routing` module.
+
+.. important::
+
+    Tools Needed:
+     - Philips Screwdriver
+     - Wire Cutter
+     - Scissors
 
 Three module desk
 ~~~~~~~~~~~~~~~~~
 
 Assembly Procedure
 ++++++++++++++++++
-
 
 Bill of Materials
 +++++++++++++++++
@@ -15,7 +23,7 @@ Bill of Materials
    .. table::
 
       +-------------------------------------+----------+-----------+-------------+
-      | Top Mount Lighting - Bill of Materials                                   | 
+      | Lighting - Bill of Materials                                             | 
       +-------------------------------------+----------+-----------+-------------+
       | Item                                | Quantity | Price/Pcs | Total Price |
       +=====================================+==========+===========+=============+
@@ -50,7 +58,7 @@ Bill of Materials
    .. table::
 
       +-------------------------------------+----------+-----------+-------------+
-      | Top Mount Lighting - Bill of Materials                                   | 
+      | Lighting - Bill of Materials                                             | 
       +-------------------------------------+----------+-----------+-------------+
       | Item                                | Quantity | Price/Pcs | Total Price |
       +=====================================+==========+===========+=============+
@@ -83,9 +91,9 @@ Bill of Materials
 
    .. tabularcolumns:: |l|c|c|c|
    .. table::
-   
+
       +-------------------------------------+----------+-----------+-------------+
-      | Top Mount Lighting - Bill of Materials                                   | 
+      | Lighting - Bill of Materials                                             |
       +-------------------------------------+----------+-----------+-------------+
       | Item                                | Quantity | Price/Pcs | Total Price |
       +=====================================+==========+===========+=============+
