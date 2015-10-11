@@ -76,10 +76,16 @@ These can be combined in any desirable way to formulate a -- three, four or five
         | OpenDeskLab Module            | Tools                     |
         +===============================+===========================+
         | Single Cabinet                | Philips Screwdriver       |
+        +                               +---------------------------+
+        |                               | Electric Screwdriver      |
         +-------------------------------+---------------------------+
         | Double Cabinet                | Philips Screwdriver       |
+        +                               +---------------------------+
+        |                               | Electric Screwdriver      |
         +-------------------------------+---------------------------+
         | Drawer Cabinet                | Philips Screwdriver       |
+        +                               +---------------------------+
+        |                               | Electric Screwdriver      |
         +-------------------------------+---------------------------+
         | Cable Routing                 | Philips Screwdriver       |
         +                               +---------------------------+
@@ -90,8 +96,12 @@ These can be combined in any desirable way to formulate a -- three, four or five
         |                               | Scissors                  |
         +-------------------------------+---------------------------+
         | Hazardous Materials Cabinet   | Philips Screwdriver       |
+        +                               +---------------------------+
+        |                               | Electric Screwdriver      |
         +-------------------------------+---------------------------+
         | Sink Cabinet                  | Philips Screwdriver       |
+        +                               +---------------------------+
+        |                               | Electric Screwdriver      |
         +                               +---------------------------+
         |                               | Wrench                    |
         +                               +---------------------------+

@@ -1,6 +1,21 @@
 :index:`Sink Cabinet`
 ---------------------
 
+.. important::
+
+    Tools Needed:
+     - Philips Screwdriver
+     - Electric Screwdriver for the four plastic legs
+
+
+Assembly Procedure
+~~~~~~~~~~~~~~~~~~
+
+
+Bill of Materials
+~~~~~~~~~~~~~~~~~
+
+
     .. tabularcolumns:: |l|c|c|c|
     .. table::
 
