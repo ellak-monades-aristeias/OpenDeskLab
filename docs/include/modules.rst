@@ -3,6 +3,7 @@
 ============================
 
 .. toctree::
+   :maxdepth: 1
    
    parts/single_cabinet
    parts/double_cabinet
