@@ -13,4 +13,5 @@
    parts/lighting
    parts/ventilation
    parts/desk_back
+   parts/desk_side
    parts/worktop
