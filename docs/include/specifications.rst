@@ -2,7 +2,7 @@
 Specifications & Requirements
 =============================
 
-According to the rules and regulations of the EU and most International Standards committees, there are some safety rules that must be taken into account for manufacturing laboratory equipment. However, although OpenDeskLab is designed according to those rules, it must be noted that the authors and creators of OpenDeskLab are **not** eligible for any kind of damage that may happen while building or using the desk. A laboratory that is used in professional environments **must** be certified by an authorized person, and OpenDeskLab is neither certified nor can fullfil all the regulations of every standard in the world.
+According to the rules and regulations of the EU_ and most International Standards committees, there are some safety rules that must be taken into account for manufacturing laboratory equipment. However, although OpenDeskLab is designed according to those rules, it must be noted that the authors and creators of OpenDeskLab are **not** eligible for any kind of damage that may happen while building or using the desk. A laboratory that is used in professional environments **must** be certified by an authorized person, and OpenDeskLab is neither certified nor can fullfil all the regulations of every standard in the world.
 
 .. warning::
 
@@ -38,9 +38,9 @@ OpenDeskLab is comprised of the following modules:
 - Sink cabinet
 - Hazardous materials cabinet
 - Cable routing
-- Top mount lighting
-- Top mount ventilation
+- Lighting and ventilation
 - Desk back
+- Desk sides
 - Worktop
 
 These can be combined in any desirable way to formulate a -- three, four or five module wide -- self-contained laboratory desk. 
@@ -54,16 +54,18 @@ These can be combined in any desirable way to formulate a -- three, four or five
         ======================= ==================
          **OpenDeskLab Materials**
         ------------------------------------------
-        Melamine                Electric Plug      
-        Bakelite                Electric Cable
+        Melamine                Electric Plug
+        Plywood                 Electric Cable
         Cam Lock                Pneumatic Coupling
         Cam Bolt                Pneumatic Tubing
         Wooden Dowel Pin        Sink
         Concealed Hinge         Water Tap
         Hinge Mounting Plate    Hydraulic Hose
         Plastic Adjustable Leg  Plastic Tube
+        Metal Adjustable Leg    Silicone Caulk
         Knob                    LED Lighting
         Electric Switch         Insulating Tape
+        Intumescent Paint       
         ======================= ==================
 
 :index:`Tools`
@@ -94,6 +96,8 @@ These can be combined in any desirable way to formulate a -- three, four or five
         |                               | Tube Cutter               |
         +                               +---------------------------+
         |                               | Scissors                  |
+        +                               +---------------------------+
+        |                               | Wrench                    |
         +-------------------------------+---------------------------+
         | Hazardous Materials Cabinet   | Philips Screwdriver       |
         +                               +---------------------------+
@@ -104,8 +108,6 @@ These can be combined in any desirable way to formulate a -- three, four or five
         |                               | Electric Screwdriver      |
         +                               +---------------------------+
         |                               | Wrench                    |
-        +                               +---------------------------+
-        |                               | Silicone                  |
         +                               +---------------------------+
         |                               | Jigsaw (Optional)         |
         +-------------------------------+---------------------------+
@@ -119,3 +121,7 @@ These can be combined in any desirable way to formulate a -- three, four or five
         +-------------------------------+---------------------------+
         | Desk Back                     | Philips Screwdriver       |
         +-------------------------------+---------------------------+
+        | Desk Side                     | Philips Screwdriver       |
+        +-------------------------------+---------------------------+
+
+.. _EU: https://en.wikipedia.org/wiki/European_Union

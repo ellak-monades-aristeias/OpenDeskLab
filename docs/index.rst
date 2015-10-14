@@ -7,7 +7,7 @@
 Welcome to OpenDeskLab's documentation!
 =======================================
 
-.. figure::  ../img/OpenDeskLab_room.png
+.. figure::  _static/LabWithWorker.png
    :align:   center
 
 .. toctree::
