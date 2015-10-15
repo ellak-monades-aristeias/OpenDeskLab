@@ -1,12 +1,12 @@
 :index:`Double Cabinet`
 -----------------------
 
-.. figure::  ../../_static/double_cabinet/final.png
+.. figure::  /_static/double_cabinet/final.png
    :align: center
    :scale: 100 %
    :alt:   double cabinet
 
-The double cabinet is a double module for the OpenDeskLab. It is comprised of the five melamine boards that form the frame and the two bakelite doors that have rounded edges. 
+The double cabinet is a double module for the OpenDeskLab. It is comprised of the five melamine boards that form the frame and the two melamine doors. 
 
 The hinges are standardized and all the holes can be predrilled in the CNC mill of the melamine supplier.
 
@@ -43,6 +43,16 @@ After you have assembled both sides and the door assemblies you can proceed to t
    Your browser does not support the video tag.
    </video>
 
+Drawings
+~~~~~~~~
+
+:download:`Shelf </_static/double_cabinet/Double_Melamine_Shelf.pdf>`
+
+:download:`Door </_static/single_cabinet/Melamine_Door.pdf>`
+
+:download:`Side </_static/single_cabinet/Melamine_Side.pdf>`
+
+:download:`Double Cabinet </_static/double_cabinet/Double_Cabinet.pdf>`
 
 Bill of Materials
 ~~~~~~~~~~~~~~~~~
@@ -67,7 +77,7 @@ Bill of Materials
 		+------------------------------------+----------+-----------+-------------+
 		| Plastic Adjustable Legs 100mm      |     6    |    0.750€ |      4.500€ |
 		+------------------------------------+----------+-----------+-------------+
-		| Bakelite Door 755mm x 496mm x 18mm |     2    |   50.490€ |    100.980€ |
+		| Melamine Door 755mm x 496mm x 18mm |     2    |   XXXXXX€ |    XXXXXXX€ |
 		+------------------------------------+----------+-----------+-------------+
 		| Melamine Part 760mm x 562mm x 18mm |     2    | 8.211€/m2 |      7.014€ |
 		+------------------------------------+----------+-----------+-------------+
@@ -75,5 +85,5 @@ Bill of Materials
 		+------------------------------------+----------+-----------+-------------+
 		| Knob                               |     2    |    1.080€ |      2.160€ |
 		+------------------------------------+----------+-----------+-------------+
-		| **Total Cost**                                            |    151.537€ |
+		| **Total Cost**                                            |    XXXXXXX€ |
 		+------------------------------------+----------+-----------+-------------+

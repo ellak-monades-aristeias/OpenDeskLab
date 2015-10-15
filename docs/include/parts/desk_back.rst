@@ -1,13 +1,13 @@
 :index:`Desk Back`
 ------------------
 
-OpenDeskLab can be configured with either a tall back or a short one. The tall back provides support for embedded lighting and connection to the room ventilation system, while the short back only goes up to the cable routing height, allowing the user (and the superviser) to have visual contact with the installed facilities.
+OpenDeskLab can be configured with either a tall back or a short one. The tall back provides support for embedded lighting and connection to the room ventilation system, while the short back only goes up to the :doc:`cable_routing` height, allowing the user (and the superviser) to have visual contact with the installed facilities.
 
 .. warning::
 
    In some countries it may be against the regulations to install a short back for safety reasons. It is up to the builder to choose the correct version if safety rules must apply.
 
-The width of the back depends on the number of modules that the desk will be comprised. The assembly procedure however remails the same, although more bolts, locks and dowel pins are needed in the bigger desks.
+The width of the back depends on the number of modules that the desk will be comprised. The assembly procedure however remains the same, although more bolts, locks and dowel pins are needed in the bigger desks.
 
 .. important::
 
@@ -17,12 +17,28 @@ The width of the back depends on the number of modules that the desk will be com
 Tall back
 ^^^^^^^^^
 
-Three module desk
-~~~~~~~~~~~~~~~~~
+.. figure::  /_static/desk_back/final_tall.png
+   :align: center
+   :scale: 100 %
+   :alt:   desk back tall
 
 Assembly Procedure
 ++++++++++++++++++
 
+To assemble the back panel of the desk, all you have to do is insert the Cam Bolts, the Wooden Dowel Pins and the Cam Locks (without locking them).
+
+.. raw:: html 
+
+   <video src="../../_static/desk_back/Desk_Back_3M.ogv" width="696" type="video/ogg" controls="controls">
+   Your browser does not support the video tag.
+   </video>
+
+Drawings
+++++++++
+
+Drawings are provided for the three module-wide version, for the other versions nothing changes besides the overall length of the module.
+
+:download:`Tall Desk Back 3M </_static/desk_back/Desk_Back_3M.pdf>`
 
 Bill of Materials
 +++++++++++++++++
@@ -31,7 +47,7 @@ Bill of Materials
    .. table::
 
       +--------------------------------------+----------+-----------+-------------+
-      | Desk Back - Bill of Materials                                             | 
+      | Tall Desk Back 3M - Bill of Materials                                     |
       +--------------------------------------+----------+-----------+-------------+
       | Item                                 | Quantity | Price/Pcs | Total Price |
       +======================================+==========+===========+=============+
@@ -46,21 +62,11 @@ Bill of Materials
       | **Total Cost**                                              |     XXXXXX€ |
       +--------------------------------------+----------+-----------+-------------+
 
-Four module desk
-~~~~~~~~~~~~~~~~
-
-Assembly Procedure
-++++++++++++++++++
-
-
-Bill of Materials
-+++++++++++++++++
-
    .. tabularcolumns:: |l|c|c|c|
    .. table::
 
       +--------------------------------------+----------+-----------+-------------+
-      | Desk Back - Bill of Materials                                             | 
+      | Tall Desk Back 4M - Bill of Materials                                     |
       +--------------------------------------+----------+-----------+-------------+
       | Item                                 | Quantity | Price/Pcs | Total Price |
       +======================================+==========+===========+=============+
@@ -75,21 +81,11 @@ Bill of Materials
       | **Total Cost**                                              |     XXXXXX€ |
       +--------------------------------------+----------+-----------+-------------+
 
-Five module desk
-~~~~~~~~~~~~~~~~
-
-Assembly Procedure
-++++++++++++++++++
-
-
-Bill of Materials
-+++++++++++++++++
-
    .. tabularcolumns:: |l|c|c|c|
    .. table::
 
       +--------------------------------------+----------+-----------+-------------+
-      | Desk Back - Bill of Materials                                             |
+      | Tall Desk Back 5M - Bill of Materials                                     |
       +--------------------------------------+----------+-----------+-------------+
       | Item                                 | Quantity | Price/Pcs | Total Price |
       +======================================+==========+===========+=============+
@@ -107,12 +103,22 @@ Bill of Materials
 Short back
 ^^^^^^^^^^
 
-Three module desk
-~~~~~~~~~~~~~~~~~
+.. figure::  /_static/desk_back/final_short.png
+   :align: center
+   :scale: 100 %
+   :alt:   desk back short
 
 Assembly Procedure
 ++++++++++++++++++
 
+The procedure for the short back is the same as the tall one, only fewer components are needed.
+
+Drawings
+++++++++
+
+Drawings are provided for the three module-wide version, for the other versions nothing changes besides the overall length of the module.
+
+:download:`Short Desk Back 3M </_static/desk_back/Desk_Low_Back_3M.pdf>`
 
 Bill of Materials
 +++++++++++++++++
@@ -121,7 +127,7 @@ Bill of Materials
    .. table::
 
       +--------------------------------------+----------+-----------+-------------+
-      | Desk Back - Bill of Materials                                             | 
+      | Short Desk Back 3M - Bill of Materials                                    |
       +--------------------------------------+----------+-----------+-------------+
       | Item                                 | Quantity | Price/Pcs | Total Price |
       +======================================+==========+===========+=============+
@@ -136,21 +142,11 @@ Bill of Materials
       | **Total Cost**                                              |     XXXXXX€ |
       +--------------------------------------+----------+-----------+-------------+
 
-Four module desk
-~~~~~~~~~~~~~~~~
-
-Assembly Procedure
-++++++++++++++++++
-
-
-Bill of Materials
-+++++++++++++++++
-
    .. tabularcolumns:: |l|c|c|c|
    .. table::
 
       +--------------------------------------+----------+-----------+-------------+
-      | Desk Back - Bill of Materials                                             | 
+      | Short Desk Back 4M - Bill of Materials                                    |
       +--------------------------------------+----------+-----------+-------------+
       | Item                                 | Quantity | Price/Pcs | Total Price |
       +======================================+==========+===========+=============+
@@ -165,21 +161,11 @@ Bill of Materials
       | **Total Cost**                                              |     XXXXXX€ |
       +--------------------------------------+----------+-----------+-------------+
 
-Five module desk
-~~~~~~~~~~~~~~~~
-
-Assembly Procedure
-++++++++++++++++++
-
-
-Bill of Materials
-+++++++++++++++++
-
    .. tabularcolumns:: |l|c|c|c|
    .. table::
 
       +--------------------------------------+----------+-----------+-------------+
-      | Desk Back - Bill of Materials                                             | 
+      | Short Desk Back 5M - Bill of Materials                                    |
       +--------------------------------------+----------+-----------+-------------+
       | Item                                 | Quantity | Price/Pcs | Total Price |
       +======================================+==========+===========+=============+

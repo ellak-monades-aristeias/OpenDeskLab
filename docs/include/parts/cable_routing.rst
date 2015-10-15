@@ -1,7 +1,12 @@
 :index:`Cable Routing`
 ----------------------
 
-The cable routing module lies on top of the worktop, providing power and air connections for the users. The width of the melamine parts depends on the number of modules the desks will be built with.
+.. figure::  /_static/cable_routing/final.png
+   :align: center
+   :scale: 100 %
+   :alt:   cable routing
+
+The cable routing module lies on top of the worktop, providing power and air connections for the users. The width of the melamine parts depends on the number of modules the desk will be built with.
 
 .. important::
 
@@ -36,12 +41,33 @@ When choosing the appropriate connections (for electricity and pneumatics) choos
 
    Electrical connections must be made from an authorized electrician. The authors are not responsible for any damage or incorrect installation by the builders.
 
-Three module desk
-~~~~~~~~~~~~~~~~~
-
 Assembly Procedure
 ++++++++++++++++++
 
+The assembly of the cable routing module is perhaps the hardest part of OpenDeskLab, as it requires electrical as well as pneumatic connections. The front melamine part has predrilled holes that can be used to connect AC or DC eletric outlets or switches for the :doc:`lighting` module.
+
+The pneumatic connectors are predrilled on either side of the electric outlets, and can be configured either as input/output connects or as outputs only.
+
+The cable routing module provides 3 electric connections and two pneumatic connections above each module, therefore providing 9 electric and 6 pneumatic plugs for the three module-wide desk. 
+
+Cable management for all the connections goes through the :doc:`desk_back` to their respective sources.
+
+.. raw:: html 
+
+   <video src="../../_static/cable_routing/Cable_Routing_3M.ogv" width="696" type="video/ogg" controls="controls">
+   Your browser does not support the video tag.
+   </video>
+
+Drawings
+++++++++
+
+Drawings are provided for the three module-wide version, for the other versions nothing changes besides the overall length of the module.
+
+:download:`Cable Routing Top 3M </_static/cable_routing/Cable_Routing_Top_3M.pdf>`
+
+:download:`Cable Routing Front 3M </_static/cable_routing/Cable_Routing_Front_3M.pdf>`
+
+:download:`Cable Routing </_static/cable_routing/Cable_Routing.pdf>`
 
 Bill of Materials
 +++++++++++++++++
@@ -50,7 +76,7 @@ Bill of Materials
    .. table::
 
       +------------------------------------+----------+-----------+-------------+
-      | Cable Routing - Bill of Materials                                       | 
+      | Cable Routing 3M - Bill of Materials                                    |
       +------------------------------------+----------+-----------+-------------+
       | Item                               | Quantity | Price/Pcs | Total Price |
       +====================================+==========+===========+=============+
@@ -67,22 +93,11 @@ Bill of Materials
       | **Total Cost**                                            |           € |
       +------------------------------------+----------+-----------+-------------+
 
-
-Four module desk
-~~~~~~~~~~~~~~~~
-
-Assembly Procedure
-++++++++++++++++++
-
-
-Bill of Materials
-+++++++++++++++++
-
    .. tabularcolumns:: |l|c|c|c|
    .. table::
 
       +------------------------------------+----------+-----------+-------------+
-      | Cable Routing - Bill of Materials                                       | 
+      | Cable Routing 4M - Bill of Materials                                    |
       +------------------------------------+----------+-----------+-------------+
       | Item                               | Quantity | Price/Pcs | Total Price |
       +====================================+==========+===========+=============+
@@ -99,22 +114,11 @@ Bill of Materials
       | **Total Cost**                                            |           € |
       +------------------------------------+----------+-----------+-------------+
 
-
-Five module desk
-~~~~~~~~~~~~~~~~
-
-Assembly Procedure
-++++++++++++++++++
-
-
-Bill of Materials
-+++++++++++++++++
-
    .. tabularcolumns:: |l|c|c|c|
    .. table::
 
       +------------------------------------+----------+-----------+-------------+
-      | Cable Routing - Bill of Materials                                       | 
+      | Cable Routing 5M - Bill of Materials                                    |
       +------------------------------------+----------+-----------+-------------+
       | Item                               | Quantity | Price/Pcs | Total Price |
       +====================================+==========+===========+=============+

@@ -1,7 +1,7 @@
 :index:`Single Cabinet`
 -----------------------
 
-.. figure::  ../../_static/single_cabinet/final.png
+.. figure::  /_static/single_cabinet/final.png
    :align: center
    :scale: 100 %
    :alt:   single cabinet
@@ -43,6 +43,17 @@ After you have assembled both sides and the door assembly you can proceed to the
    <video src="../../_static/single_cabinet/single_cabinet.ogv" width="696" type="video/ogg" controls="controls">
    Your browser does not support the video tag.
    </video>
+
+Drawings
+~~~~~~~~
+
+:download:`Shelf </_static/single_cabinet/Melamine_Shelf.pdf>`
+
+:download:`Door </_static/single_cabinet/Melamine_Door.pdf>`
+
+:download:`Side </_static/single_cabinet/Melamine_Side.pdf>`
+
+:download:`Double Cabinet </_static/single_cabinet/Single_Cabinet.pdf>`
 
 Bill of Materials
 ~~~~~~~~~~~~~~~~~

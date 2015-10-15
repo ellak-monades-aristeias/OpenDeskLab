@@ -8,11 +8,31 @@ Depending on the :doc:`desk_back` configuration, the side panels also differenti
    Tools Needed:
     - Philips Screwdriver
 
-Tall back
+Tall side
 ^^^^^^^^^
+
+.. figure::  /_static/desk_side/final_tall.png
+   :align: center
+   :scale: 100 %
+   :alt:   desk side tall
 
 Assembly Procedure
 ~~~~~~~~~~~~~~~~~~
+
+The assembly procedure is fairly simple, just screw in the Cam Bolts and insert the Dowel Pins on the melamine board. The Cam Lock can also be inserted without however locking them in place.
+
+.. raw:: html 
+
+   <video src="../../_static/desk_side/Desk_Side_Left.ogv" width="696" type="video/ogg" controls="controls">
+   Your browser does not support the video tag.
+   </video>
+
+Drawings
+~~~~~~~~
+
+Drawings are provided for the left melamine side, the right side is changed accordingly.
+
+:download:`Tall Desk Side </_static/desk_side/Desk_Side_Left.pdf>`
 
 Bill of Materials
 ~~~~~~~~~~~~~~~~~
@@ -21,7 +41,7 @@ Bill of Materials
    .. table::
 
       +--------------------------------------+----------+-----------+-------------+
-      | Desk Side - Bill of Materials                                             |
+      | Tall Desk Side - Bill of Materials                                        |
       +--------------------------------------+----------+-----------+-------------+
       | Item                                 | Quantity | Price/Pcs | Total Price |
       +======================================+==========+===========+=============+
@@ -36,11 +56,25 @@ Bill of Materials
       | **Total Cost**                                              |     XXXXXX€ |
       +--------------------------------------+----------+-----------+-------------+
 
-Short back
+Short side
 ^^^^^^^^^^
+
+.. figure::  /_static/desk_side/final_short.png
+   :align: center
+   :scale: 100 %
+   :alt:   desk side short
 
 Assembly Procedure
 ~~~~~~~~~~~~~~~~~~
+
+The short side module is also very simple to assemble, fewer components are needed than the taller version.
+
+Drawings
+~~~~~~~~
+
+Drawings are provided for the left melamine side, the right side is changed accordingly.
+
+:download:`Short Desk Side </_static/desk_side/Desk_Side_Low_Left.pdf>`
 
 Bill of Materials
 ~~~~~~~~~~~~~~~~~
@@ -49,7 +83,7 @@ Bill of Materials
    .. table::
 
       +--------------------------------------+----------+-----------+-------------+
-      | Desk Side - Bill of Materials                                             |
+      | Short Desk Side - Bill of Materials                                       |
       +--------------------------------------+----------+-----------+-------------+
       | Item                                 | Quantity | Price/Pcs | Total Price |
       +======================================+==========+===========+=============+

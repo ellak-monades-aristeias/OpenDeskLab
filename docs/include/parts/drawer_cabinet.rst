@@ -1,6 +1,12 @@
 :index:`Drawer Cabinet`
 -----------------------
 
+.. figure::  /_static/drawer_cabinet/final.png
+   :align: center
+   :scale: 100 %
+   :alt:   drawer cabinet
+
+The drawer cabinet is a single module for the OpenDeskLab. It is comprised of a drawer and a small cabinet.
 
 .. important::
 
@@ -12,6 +18,32 @@
 Assembly Procedure
 ~~~~~~~~~~~~~~~~~~
 
+First you assemble the drawer, which is comprised of two side panels, one bottom panel, one back panel and the front drawer panel.
+
+.. raw:: html 
+
+   <video src="../../_static/drawer_cabinet/Drawer.ogv" width="696" type="video/ogg" controls="controls">
+   Your browser does not support the video tag.
+   </video>
+
+Then you assemble the rest of the cabinet the same way the :doc:`single_cabinet` and the :doc:`double_cabinet` are assembled.
+
+.. raw:: html 
+
+   <video src="../../_static/drawer_cabinet/Drawer_Cabinet.ogv" width="696" type="video/ogg" controls="controls">
+   Your browser does not support the video tag.
+   </video>
+
+Drawings
+~~~~~~~~
+
+:download:`Drawer </_static/drawer_cabinet/Drawer.pdf>`
+
+:download:`Drawer Left Side </_static/drawer_cabinet/Drawer_Melamine_Left_Side.pdf>`
+
+:download:`Drawer Door </_static/drawer_cabinet/Drawer_Door.pdf>`
+
+:download:`Drawer Cabinet </_static/drawer_cabinet/Drawer_Cabinet.pdf>`
 
 Bill of Materials
 ~~~~~~~~~~~~~~~~~
@@ -36,13 +68,13 @@ Bill of Materials
       +--------------------------------------+----------+-----------+-------------+
       | Plastic Adjustable Legs 100mm        |     4    |    0.750€ |      3.000€ |
       +--------------------------------------+----------+-----------+-------------+
-      | Bakelite Door XXXmm x 496mm x 18mm   |     1    |   XXXXXX€ |     XXXXXX€ |
+      | Melamine Door XXXmm x 496mm x 18mm   |     1    |   XXXXXX€ |     XXXXXX€ |
       +--------------------------------------+----------+-----------+-------------+
-      | Bakelite Drawer XXXmm x 496mm x 18mm |     1    |   XXXXXX€ |     XXXXXX€ |
+      | Melamine Drawer XXXmm x 496mm x 18mm |     1    |   XXXXXX€ |     XXXXXX€ |
       +--------------------------------------+----------+-----------+-------------+
-      | Melamine Part 760mm x 562mm x 18mm   |     2    | 8.211€/m2 |      7.014€ |
+      | Melamine Side 760mm x 562mm x 18mm   |     2    | 8.211€/m2 |      7.014€ |
       +--------------------------------------+----------+-----------+-------------+
-      | Melamine Part 562mm x 464mm x 18mm   |     3    | 8.211€/m2 |      6.423€ |
+      | Melamine Shelf 562mm x 464mm x 18mm  |     3    | 8.211€/m2 |      6.423€ |
       +--------------------------------------+----------+-----------+-------------+
       | Knob                                 |     2    |    1.080€ |      2.160€ |
       +--------------------------------------+----------+-----------+-------------+

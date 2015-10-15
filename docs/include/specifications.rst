@@ -32,16 +32,16 @@ According to the rules and regulations of the EU_ and most International Standar
 
 OpenDeskLab is comprised of the following modules:
 
-- Single cabinet
-- Double cabinet
-- Drawer cabinet
-- Sink cabinet
-- Hazardous materials cabinet
-- Cable routing
-- Lighting and ventilation
-- Desk back
-- Desk sides
-- Worktop
+- :doc:`parts/cable_routing`
+- :doc:`parts/desk_back`
+- :doc:`parts/desk_side`
+- :doc:`parts/double_cabinet`
+- :doc:`parts/drawer_cabinet`
+- :doc:`parts/hazardous_materials_cabinet`
+- :doc:`parts/lighting`
+- :doc:`parts/single_cabinet`
+- :doc:`parts/sink_cabinet`
+- :doc:`parts/worktop`
 
 These can be combined in any desirable way to formulate a -- three, four or five module wide -- self-contained laboratory desk. 
 
@@ -67,61 +67,5 @@ These can be combined in any desirable way to formulate a -- three, four or five
         Electric Switch         Insulating Tape
         Intumescent Paint       
         ======================= ==================
-
-:index:`Tools`
---------------
-
-    .. tabularcolumns:: |c|c|
-    .. table:: 
-
-        +-------------------------------+---------------------------+
-        | OpenDeskLab Module            | Tools                     |
-        +===============================+===========================+
-        | Single Cabinet                | Philips Screwdriver       |
-        +                               +---------------------------+
-        |                               | Electric Screwdriver      |
-        +-------------------------------+---------------------------+
-        | Double Cabinet                | Philips Screwdriver       |
-        +                               +---------------------------+
-        |                               | Electric Screwdriver      |
-        +-------------------------------+---------------------------+
-        | Drawer Cabinet                | Philips Screwdriver       |
-        +                               +---------------------------+
-        |                               | Electric Screwdriver      |
-        +-------------------------------+---------------------------+
-        | Cable Routing                 | Philips Screwdriver       |
-        +                               +---------------------------+
-        |                               | Wire Cutter               |
-        +                               +---------------------------+
-        |                               | Tube Cutter               |
-        +                               +---------------------------+
-        |                               | Scissors                  |
-        +                               +---------------------------+
-        |                               | Wrench                    |
-        +-------------------------------+---------------------------+
-        | Hazardous Materials Cabinet   | Philips Screwdriver       |
-        +                               +---------------------------+
-        |                               | Electric Screwdriver      |
-        +-------------------------------+---------------------------+
-        | Sink Cabinet                  | Philips Screwdriver       |
-        +                               +---------------------------+
-        |                               | Electric Screwdriver      |
-        +                               +---------------------------+
-        |                               | Wrench                    |
-        +                               +---------------------------+
-        |                               | Jigsaw (Optional)         |
-        +-------------------------------+---------------------------+
-        | Lighting                      | Philips Screwdriver       |
-        +                               +---------------------------+
-        |                               | Wire Cutter               |
-        +                               +---------------------------+
-        |                               | Scissors                  |
-        +-------------------------------+---------------------------+
-        | Ventilation                   | Philips Screwdriver       |
-        +-------------------------------+---------------------------+
-        | Desk Back                     | Philips Screwdriver       |
-        +-------------------------------+---------------------------+
-        | Desk Side                     | Philips Screwdriver       |
-        +-------------------------------+---------------------------+
 
 .. _EU: https://en.wikipedia.org/wiki/European_Union
