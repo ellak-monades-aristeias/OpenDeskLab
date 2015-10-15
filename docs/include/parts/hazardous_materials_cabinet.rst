@@ -25,7 +25,7 @@ Assembly Procedure
 
 The hazardous materials cabinet must be carefully assembled to provide the required protection. After the carefull assembly of the cabinet, before connecting the door, the silicone caulk must be used to provide an airtight seal when closed. The hinges used for this cabinet **should** be self-closing.
 
-This cabinet is the only one that must be painted, using a special fire-retardant paint. 
+This cabinet is the only one that must be painted, using a special fire-retardant paint. You should paint the panels before assembling them together, since after the assembly it can be very difficult to paint everything evenly.
 
 First you assemble the side panels
 
