@@ -13,7 +13,7 @@ The lighting module can be predrilled for ventilation installation.
 .. important::
 
     Tools Needed:
-     - Philips Screwdriver
+     - Pozidriv Screwdriver
      - Wire Cutter
      - Scissors
 

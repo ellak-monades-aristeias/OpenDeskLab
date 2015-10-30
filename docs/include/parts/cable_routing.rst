@@ -11,7 +11,7 @@ The cable routing module lies on top of the worktop, providing power and air con
 .. important::
 
    Tools Needed:
-    - Philips Screwdriver
+    - Pozidriv Screwdriver
     - Wire Cutter
     - Tube Cutter
     - Scissors

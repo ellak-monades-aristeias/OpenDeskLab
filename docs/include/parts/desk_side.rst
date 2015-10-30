@@ -6,7 +6,7 @@ Depending on the :doc:`desk_back` configuration, the side panels also differenti
 .. important::
    
    Tools Needed:
-    - Philips Screwdriver
+    - Pozidriv Screwdriver
 
 Tall side
 ^^^^^^^^^

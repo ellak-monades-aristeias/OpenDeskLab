@@ -11,7 +11,7 @@ The drawer cabinet is a single module for the OpenDeskLab. It is comprised of a 
 .. important::
 
    Tools Needed:
-    - Philips Screwdriver
+    - Pozidriv Screwdriver
     - Electric Screwdriver for the four plastic legs
 
 

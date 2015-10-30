@@ -14,7 +14,7 @@
 Assembly Procedure
 ++++++++++++++++++
 
-The worktop is assembled by simply screwing the top side of the cabinets with it, using the Philips 3.5mm x 35mm screws. You open the doors of the cabinets, lie down on them and using an electric screwdriver you secure it in place.
+The worktop is assembled by simply screwing the top side of the cabinets with it, using the Pozidriv 3.5mm x 35mm screws. You open the doors of the cabinets, lie down on them and using an electric screwdriver you secure it in place.
 
 If you have installed a sink cabinet module, you must also securely attach it to the worktop following the instructions provided by the sink.
 
@@ -43,7 +43,7 @@ Bill of Materials
       +------------------------------------+----------+-----------+-------------+
       | Item                               | Quantity | Price/Pcs | Total Price |
       +====================================+==========+===========+=============+
-      | Philips Screws 3.5mm x 35mm        |      12  |   0.0188€ |      0.225€ |
+      | Pozidriv Screws 3.5mm x 35mm        |      12  |   0.0188€ |      0.225€ |
       +------------------------------------+----------+-----------+-------------+
       | Worktop 40mm                       |     1.5  | 22.142€/m |     33.214€ |
       +------------------------------------+----------+-----------+-------------+
@@ -58,7 +58,7 @@ Bill of Materials
       +------------------------------------+----------+-----------+-------------+
       | Item                               | Quantity | Price/Pcs | Total Price |
       +====================================+==========+===========+=============+
-      | Philips Screws 3.5mm x 35mm        |      16  |   0.0188€ |      0.300€ |
+      | Pozidriv Screws 3.5mm x 35mm        |      16  |   0.0188€ |      0.300€ |
       +------------------------------------+----------+-----------+-------------+
       | Worktop 40mm                       |       2  | 22.142€/m |     44.285€ |
       +------------------------------------+----------+-----------+-------------+
@@ -73,7 +73,7 @@ Bill of Materials
       +------------------------------------+----------+-----------+-------------+
       | Item                               | Quantity | Price/Pcs | Total Price |
       +====================================+==========+===========+=============+
-      | Philips Screws 3.5mm x 35mm        |      20  |   0.0188€ |      0.376€ |
+      | Pozidriv Screws 3.5mm x 35mm        |      20  |   0.0188€ |      0.376€ |
       +------------------------------------+----------+-----------+-------------+
       | Worktop 40mm                       |     2.5  | 22.142€/m |     55.357€ |
       +------------------------------------+----------+-----------+-------------+

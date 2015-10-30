@@ -14,7 +14,7 @@ OpenDeskLab aims at creating an open design for laboratory desks that is
 - Low cost
 - Highly functional
 
-The material used for the structure of is mostly melamine boards, that can be precut by any CNC supplier to the given dimensions. The assembly of an OpenDeskLab is designed so as to require only the basic of the tools, such as a Philips screwdriver. The desk itself can be configured in many different ways, and the materials as well as the aesthetics can be customized according to the owners taste.
+The material used for the structure of is mostly melamine boards, that can be precut by any CNC supplier to the given dimensions. The assembly of an OpenDeskLab is designed so as to require only the basic of the tools, such as a Pozidriv screwdriver. The desk itself can be configured in many different ways, and the materials as well as the aesthetics can be customized according to the owners taste.
 
 All the materials chosen for the OpenDeskLab (and their respective sockets) are dimensioned according to the International standards and can be sourced online or in many local stores. The desk can be assembled easily, following the instructive videos provided for each component. Various components are provided, although anyone can design his own component to pair with the already developed ones.
 

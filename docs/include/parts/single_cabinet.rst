@@ -13,7 +13,7 @@ The sides of the frame can be used to mount the door either as right swing or as
 .. important::
 
     Tools Needed:
-     - Philips Screwdriver
+     - Pozidriv Screwdriver
      - Electric Screwdriver for the four plastic legs
 
 

@@ -12,7 +12,7 @@ The width of the back depends on the number of modules that the desk will be com
 .. important::
 
    Tools Needed:
-    - Philips Screwdriver
+    - Pozidriv Screwdriver
 
 Tall back
 ^^^^^^^^^

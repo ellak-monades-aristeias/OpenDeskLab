@@ -13,7 +13,7 @@ The hinges are standardized and all the holes can be predrilled in the CNC mill 
 .. important::
 
     Tools Needed:
-     - Philips Screwdriver
+     - Pozidriv Screwdriver
      - Electric Screwdriver for the six plastic legs
 
 Assembly Procedure

@@ -13,7 +13,7 @@ Although there are standard sizes for sinks and taps in the industry, most manuf
 .. important::
 
     Tools Needed:
-     - Philips Screwdriver
+     - Pozidriv Screwdriver
      - Electric Screwdriver for the four plastic legs
      - Wrench
      - Jigsaw (Optional)
