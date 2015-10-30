@@ -53,7 +53,7 @@ Drawings
 
 :download:`Side </_static/single_cabinet/Melamine_Side.pdf>`
 
-:download:`Double Cabinet </_static/single_cabinet/Single_Cabinet.pdf>`
+:download:`Single Cabinet </_static/single_cabinet/Single_Cabinet.pdf>`
 
 Bill of Materials
 ~~~~~~~~~~~~~~~~~
