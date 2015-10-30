@@ -44,12 +44,14 @@ OpenDeskLab continuous documentation can be found in [Read the Docs](https://ope
 | 17/09 - 21/09 | 3 Ημ.    | Συγκέντρωση προδιαγραφών και απαιτήσεων, μελέτη των κανονισμών ασφαλείας 					|
 | 22/09 - 02/10 | 9 Ημ.    | Αναλυτικός σχεδιασμός, μελέτη εργονομίας και λειτουργικότητας, σχεδιασμός για συναρμολόγηση|
 | 05/10 - 09/10 | 5 Ημ.    | Κοστολόγιση και πίνακας υλικών (Bill of Materials) 										|
-| 12/10 - 15/10 | 4 Ημ.  | Συγγραφή της τεκμηρίωσης και αναλυτικών οδηγιών κατασκευής 								|
+| 12/10 - 15/10 | 4 Ημ.  | Συγγραφή της τεκμηρίωσης και αναλυτικών οδηγιών κατασκευής 								    |
 
 ## Παραδοτέα
 Στα πλαίσια των αρχών του ανοιχτού υλισμικού, τα παραδοτέα της πρότασης θα διατεθούν με άδεια Creative Commons. Ταυτόχρονα, όπου γίνεται θα προτιμηθούν τα ανοιχτά πρότυπα, χωρίς όμως να αποτελέσουν περιοριστικό παράγοντα για την κατασκευή και την εξάπλωση του OpenDeskLab. Με βασικό κριτήριο την ευκολία κατασκευής αλλά και την συμβατότητα με τα καθιερωμένα προγράμματα σχεδιασμού, τα αρχεία θα διατεθούν σε μορφή [STEP](https://en.wikipedia.org/wiki/ISO_10303-21), [DWG](https://en.wikipedia.org/wiki/.dwg) και δισδιάστατου [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF) για να είναι εύκολα κατασκευάσιμα από μηχανές αριθμητικού ελέγχου (CNC), αλλά και σε μορφή διαστασιολογημένων PDF για να κατασκευάζεται με απλά ηλεκτρικά εργαλεία χωρίς να απαιτείται πρόσβαση σε ακριβές εργαλειομηχανές.
 
-* __Παραδοτέο 1__ Τεχνική αναφορά με τις προδιαγραφές και τους κανονισμούς ασφαλείας
-* __Παραδοτέο 2__ Παραμετρικά σχέδια κατασκευής και εικόνες, μελέτη εργονομίας
-* __Παραδοτέο 3__ Σχέδια για συναρμολόγηση
-* __Παραδοτέο 4__ Τεκμηρίωση και τεχνική αναφορά οδηγιών κατασκευής
+| Τίτλος Παραδοτέου 													| Url     |
+|-----------------------------------------------------------------------| [source](https://github.com/ellak-monades-aristeias/OpenDeskLab/blob/master/docs/include/specifications.rst), [html](https://opendesklab.readthedocs.org/en/latest/include/specifications.html)  |
+| Τεχνική αναφορά με τις προδιαγραφές και τους κανονισμούς ασφαλείας 	| [folder](https://github.com/ellak-monades-aristeias/OpenDeskLab/tree/master/docs/_static), [html](https://opendesklab.readthedocs.org/en/latest/include/modules.html#module-list), [grabcad](https://grabcad.com/library/opendesklab-2) |
+| Παραμετρικά σχέδια κατασκευής και εικόνες, μελέτη εργονομίας 			| [videos](https://github.com/ellak-monades-aristeias/OpenDeskLab/tree/master/docs/_static), [OpenDeskLab html](https://opendesklab.readthedocs.org/en/latest/include/modules.html)
+| Σχέδια για συναρμολόγηση												| [Cable Routing html](https://opendesklab.readthedocs.org/en/latest/include/parts/cable_routing.html#assembly-procedure), [Double Cabinet html](https://opendesklab.readthedocs.org/en/latest/include/parts/double_cabinet.html#assembly-procedure), [Drawer Cabinet html](https://opendesklab.readthedocs.org/en/latest/include/parts/drawer_cabinet.html#assembly-procedure), [Hazardous Materials Cabinet html](https://opendesklab.readthedocs.org/en/latest/include/parts/hazardous_materials_cabinet.html#assembly-procedure), [Sink Cabinet html](https://opendesklab.readthedocs.org/en/latest/include/parts/sink_cabinet.html#assembly-procedure) |
+| Τεκμηρίωση και τεχνική αναφορά οδηγιών κατασκευής						| [Read The Docs](https://opendesklab.readthedocs.org/en/latest/index.html) |
