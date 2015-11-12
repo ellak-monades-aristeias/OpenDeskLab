@@ -8,7 +8,7 @@ Welcome to OpenDeskLab's documentation!
 =======================================
 
 .. figure::  /_static/LabWithWorker.png
-   :figwidth: 100%
+   :scale: 100 %
    :align:   center
 
 .. toctree::
