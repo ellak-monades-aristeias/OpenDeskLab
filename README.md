@@ -1,5 +1,6 @@
 # OpenDeskLab
 [![Documentation Status](https://readthedocs.org/projects/opendesklab/badge/?version=latest)](https://opendesklab.readthedocs.org/)
+[![CAD](http://img.shields.io/badge/GrabCAD-latest-brightgreen.svg)](https://grabcad.com/library/opendesklab-2)
 [![License](http://img.shields.io/badge/License-CC BY--SA 4.0-blue.svg)](https://github.com/ellak-monades-aristeias/OpenDeskLab/blob/master/LICENSE.md)
 
 OpenDeskLab continuous documentation can be found in [Read the Docs](https://opendesklab.readthedocs.org/)
